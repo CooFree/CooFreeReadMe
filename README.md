@@ -56,9 +56,9 @@ Thank `You` . Please `Call` Me `Coder`
 
 ##<a name="link"/>链接
 ###链接外部URL
-[我的博客](http:// "悬停显示")   语法如下：
+[我的博客](http://www.jianshu.com/users/2821f439cb19/latest_articles "http://www.jianshu.com/users/2821f439cb19/latest_articles")   语法如下：
 ```
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
+[我的博客](http://www.jianshu.com/users/2821f439cb19/latest_articles "悬停显示")
 ```
 ###链接本仓库里的URL
 [Book](./CooFreeReadme)
