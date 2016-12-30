@@ -75,10 +75,10 @@ Thank `You` . Please `Call` Me `Coder`
 ####第一种
 
 [![head]](http://www.jianshu.com/users/2821f439cb19/latest_articles)
-[head]:http://img.zcool.cn/community/01884056f500ea32f875a9449ffa71.gif "点击图片进入我的博客"
+[head]:http://img.qqai.net/uploads/i_0_1070832036x3105869304_21.jpg "点击图片进入我的博客"
 
 #### 第二种
-[![内容任意](http://pic74.nipic.com/file/20150813/8572479_191655529000_2.jpg "百度logo")](http://www.baidu.com)
+[![内容任意](http://img3.imgtn.bdimg.com/it/u=1514657903,756114250&fm=21&gp=0.jpg "百度logo")](http://www.baidu.com)
 
 
 ###块引用有多级结构
